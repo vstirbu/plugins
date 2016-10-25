@@ -81,7 +81,7 @@
     "url": "https://github.com/restify/plugins/issues"
   },
   "devDependencies": {
-    "chai": "^3.4.1",
+    "chai": "^3.5.0",
     "coveralls": "^2.11.6",
     "eslint": "^3.0.1",
     "istanbul": "^0.4.1",
